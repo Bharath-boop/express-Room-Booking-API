@@ -103,7 +103,7 @@ const getRoomById = (req, res) => {
             message: "Internal server Error"
         })
     }
-}
+} 
 
 const createRoom = (req, res) => {
     try {
